@@ -1,0 +1,23 @@
+	c1.solicitaLicitatie(casa, 8, 200.0);
+        c1.solicitaLicitatie(casa, 7,200.0);
+        c1.solicitaLicitatie(casa, 1, 200.0);
+
+        c2.solicitaLicitatie(casa,14, 300.0);
+        c2.solicitaLicitatie(casa,2, 300.0);
+        c2.solicitaLicitatie(casa, 19, 300.0);
+
+        c3.solicitaLicitatie(casa,7,110.0);
+        c3.solicitaLicitatie(casa,8,110.0);
+        c3.solicitaLicitatie(casa, 5, 110.0);
+
+        c4.solicitaLicitatie(casa, 19, 230.0);
+        c4.solicitaLicitatie(casa, 14, 230.0);
+        c4.solicitaLicitatie(casa, 15, 230.0);
+
+        c5.solicitaLicitatie(casa, 19, 250.0);
+        c5.solicitaLicitatie(casa, 8, 250.0);
+        c5.solicitaLicitatie(casa, 6, 250.0);
+
+        c6.solicitaLicitatie(casa, 14, 200.0);
+        c6.solicitaLicitatie(casa, 7, 200.0);
+        c6.solicitaLicitatie(casa, 9, 200.0);
