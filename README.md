@@ -1,7 +1,7 @@
 # Auction-System
 Popescu Ioana-Maria, 324 CB
 
-	Pentru realizarea proiectului meu am urmat clasele descrise in cerinta, 
+Pentru realizarea proiectului meu am urmat clasele descrise in cerinta, 
 alaturi de un Main si cateva clase/interfete auxiliare, in special pentru 
 realizrea design pattern-urilor.
 
@@ -30,7 +30,7 @@ Functionalitati:
  		parcurgerii acestor liste mai usor cu enhanced for loops;
 
 
- 	- Concepte POO (încapsulare, moștenire, abstractizare, polimorfism)
+  -Concepte POO (încapsulare, moștenire, abstractizare, polimorfism)
  			Mostenire: ex - Bijuterie, Mobila, Tablou mostenesc Produs;
  			Polimorfism: Metoda reset din Broker, pentru diferitele tipuri de 
  				resetare a campurilor, +alte override-uri marcate la nivelul 
@@ -39,8 +39,8 @@ Functionalitati:
  				(BrokerMediator);
  			Incapsulare: sunt setate campuri cu private(ex: BrokerMediatorImplem)
 
- 	- Testarea aplicației cu minim 10 scenarii: am testat aplicatia cu 10 teste 
- 		diferite, hardcodate, valorile fiind oferite in arhiva.
+ -Testarea aplicației cu minim 10 scenarii: am testat aplicatia cu 10 teste 
+ 		diferite, valorile fiind oferite in arhiva.
 
 
  Mecanism de licitatie: 
